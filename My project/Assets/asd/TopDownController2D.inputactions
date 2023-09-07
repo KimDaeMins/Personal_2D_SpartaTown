@@ -104,10 +104,38 @@
                     "name": "",
                     "id": "d90f0a29-3c42-4e4a-b8d7-073548604641",
                     "path": "<Mouse>/leftButton",
-                    "interactions": "",
+                    "interactions": "Press",
                     "processors": "",
                     "groups": "Keyboard&Mouse",
                     "action": "Fire",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "aaUI",
+            "id": "fe932b2a-4341-4fe2-b315-540b216479a9",
+            "actions": [
+                {
+                    "name": "Click",
+                    "type": "Button",
+                    "id": "669f67a3-756f-40cc-9d87-339ac9503f2a",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "b9d2f00d-4244-40eb-b386-805048c122a7",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Click",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
